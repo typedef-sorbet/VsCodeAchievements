@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.1]
 
 - Initial release
+
+## [0.0.2-rc1]
+
+- Added new `languages` subdir to allow easier addition of language-specific achievements
